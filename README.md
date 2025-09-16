@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Saya Muhammad Ali Fajri, mahasiswa Pendidikan Teknik Elektro UNJ.  <br>🔭 Sedang mengerjakan Project aplikasi Android E-Learn Logic Gates.  <br>🌱 Senang mengulik program seperti web development dan apps development.  <br>⚡ Hobi lain saya adalah bermain game untuk menghilangkan stres.  <br>
+👋 Saya Muhammad Ali Fajri, mahasiswa Pendidikan Teknik Elektro UNJ.  <br> Sedang mengerjakan Project aplikasi Android E-Learn Logic Gates.  <br> Senang mengulik program seperti web development dan apps development.  <br>
 
 
 ## 🌐 Socials:
